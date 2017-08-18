@@ -30,7 +30,8 @@ nav {
 }
 
 #nav li a{
-	color:green;
+	color:#fff;
+	font-weight:bold;
 	
 }
 #nav li a:hover{
