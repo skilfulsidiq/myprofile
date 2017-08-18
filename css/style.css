@@ -1,0 +1,28 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    margin: 10px;
+}
+.social{
+    width:50px;
+    height: 20px;
+    border-radius:50%;
+}
+#self{
+    width:220px;
+    height: 120px;
+    border-radius:50%;
+}
+#jumbo{
+/*    margin-top: 80px;*/
+   background-image: url("../image/code2.jpg");
+    background-size: cover;
+   
+}
+#hr{
+    width:100px;
+    border: 3px solid orange;
+}
